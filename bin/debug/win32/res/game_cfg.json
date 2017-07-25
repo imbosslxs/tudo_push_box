@@ -1,0 +1,25 @@
+{
+	"version":"0.0.1",
+
+	"levels_dir":"res/levels",
+
+	"save_file":"save.json",
+
+	"level_cfg":{
+		"unit_size":[50,50],
+
+		"png_scale_factory":1.0,
+
+		"edge_png":"ui/Gaming/game_level/edge.png",
+
+		"wall_png":"ui/Gaming/game_level/objects/wall.png",
+		"box_png":"ui/Gaming/game_level/objects/box.png",
+		"player_png":"ui/Gaming/game_level/objects/player.png",
+		"target_png":"ui/Gaming/game_level/objects/target.png",
+
+		"player_speed":200
+	},
+
+	"touch_offset":100
+	
+}

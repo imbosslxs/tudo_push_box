@@ -1,0 +1,1020 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Get",
+				"GetGameMainLayer"
+			],
+			[
+				"GetM",
+				"GetMaxLevel"
+			],
+			[
+				"winme",
+				"win_menu_layer"
+			],
+			[
+				"win",
+				"win_main_menu_button"
+			],
+			[
+				"winm",
+				"win_menu_layer"
+			],
+			[
+				"mainm",
+				"main_menu_button_0"
+			],
+			[
+				"pa",
+				"pause_menu"
+			],
+			[
+				"m_",
+				"m_objects"
+			],
+			[
+				"get",
+				"GetGameLevel"
+			],
+			[
+				"pase",
+				"pause_menu_layer"
+			],
+			[
+				"key",
+				"key_listener"
+			],
+			[
+				"setP",
+				"setPositionY"
+			],
+			[
+				"tim",
+				"time_remain_label"
+			],
+			[
+				"tir",
+				"time_remain_label"
+			],
+			[
+				"La",
+				"Label"
+			],
+			[
+				"mgm",
+				"m_game_main_layer"
+			],
+			[
+				"gc",
+				"getContentSize"
+			],
+			[
+				"tar",
+				"tartget_pos"
+			],
+			[
+				"ta",
+				"tartget_pos"
+			],
+			[
+				"si",
+				"size_h"
+			],
+			[
+				"gam",
+				"game_level_main_layer"
+			],
+			[
+				"ad",
+				"addChild"
+			],
+			[
+				"ed",
+				"edge_png"
+			],
+			[
+				"m_g",
+				"m_game_level"
+			],
+			[
+				"Game",
+				"GameLevel"
+			],
+			[
+				"pla",
+				"player_png"
+			],
+			[
+				"Re",
+				"RealPos"
+			],
+			[
+				"Set",
+				"SetXY"
+			],
+			[
+				"Ga",
+				"GameLevelObject"
+			],
+			[
+				"wa",
+				"wall_png"
+			],
+			[
+				"lev",
+				"level_cfg"
+			],
+			[
+				"le",
+				"level_cfg"
+			],
+			[
+				"js",
+				"json_object_type"
+			],
+			[
+				"jso",
+				"json_object_type"
+			],
+			[
+				"Gam",
+				"GameLevelObject"
+			],
+			[
+				"gami",
+				"gaming_layer"
+			],
+			[
+				"Is",
+				"Instance"
+			],
+			[
+				"co",
+				"convert_int_to_string"
+			],
+			[
+				"sa",
+				"save_data"
+			],
+			[
+				"ls",
+				"ls_number_label"
+			],
+			[
+				"getC",
+				"getChildByName"
+			],
+			[
+				"ti",
+				"time_limit_on_button"
+			],
+			[
+				"H",
+				"height"
+			],
+			[
+				"go",
+				"go_button"
+			],
+			[
+				"start",
+				"start_menu_layer"
+			],
+			[
+				"GA",
+				"GameClassStates"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"bac",
+				"back_button"
+			],
+			[
+				"star",
+				"start_menu_layer"
+			],
+			[
+				"Gass",
+				"GameClassStates"
+			],
+			[
+				"ab",
+				"about_box"
+			],
+			[
+				"gamm",
+				"m_game_main_layer"
+			],
+			[
+				"mg",
+				"m_game_scheduler"
+			],
+			[
+				"m_ga",
+				"m_game_main_scene"
+			],
+			[
+				"mainme",
+				"main_menu_layer"
+			],
+			[
+				"sta",
+				"StateMachine"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"GetC",
+				"getContentSize"
+			],
+			[
+				"sou",
+				"sound_on_button"
+			],
+			[
+				"bg",
+				"bgm_on_button"
+			],
+			[
+				"about",
+				"about_button"
+			],
+			[
+				"mai",
+				"main_menu_layer"
+			],
+			[
+				"ma",
+				"main_menu_layer"
+			],
+			[
+				"m",
+				"m_game_main_layer"
+			],
+			[
+				"begi",
+				"begin"
+			],
+			[
+				"max",
+				"maxn"
+			],
+			[
+				"main",
+				"MainMenuState"
+			],
+			[
+				"GetMa",
+				"GetGameLevel"
+			],
+			[
+				"los",
+				"lose_menu_layer"
+			],
+			[
+				"wi",
+				"win_menu_layer"
+			],
+			[
+				"DO",
+				"DOG_COLOR_BLUE"
+			],
+			[
+				"DOG",
+				"DOG_COLOR_WHITE"
+			],
+			[
+				"ga",
+				"game_level"
+			],
+			[
+				"mse",
+				"msec_s"
+			],
+			[
+				"fi",
+				"find_child_by_key"
+			],
+			[
+				"Load",
+				"Loading"
+			],
+			[
+				"Ent",
+				"EnterGamingState"
+			],
+			[
+				"LogI",
+				"LOGI"
+			],
+			[
+				"Gamec",
+				"GameClassStates"
+			],
+			[
+				"Getm",
+				"GetGameLevel"
+			],
+			[
+				"Gamele",
+				"GameLevelObject_tartget"
+			],
+			[
+				"set",
+				"set_pos"
+			],
+			[
+				"Ge",
+				"GetLevelDir"
+			],
+			[
+				"set_",
+				"set_color"
+			],
+			[
+				"bon",
+				"b_on_bct_down"
+			],
+			[
+				"Sta",
+				"StateMachine"
+			],
+			[
+				"tit",
+				"title_bct"
+			],
+			[
+				"mainle",
+				"m_main_layer"
+			],
+			[
+				"readf",
+				"read_file_all"
+			],
+			[
+				"LOGI",
+				"LOGI"
+			],
+			[
+				"LOG",
+				"LogType"
+			],
+			[
+				"Log",
+				"LogType"
+			],
+			[
+				"log",
+				"log_out"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"St",
+				"StateMachin"
+			],
+			[
+				"Et",
+				"EntityClass"
+			],
+			[
+				"fuc",
+				"func_name"
+			],
+			[
+				"fc",
+				"func_name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "GameResource.h",
+			"settings":
+			{
+				"buffer_size": 701,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "GameClass.h",
+			"settings":
+			{
+				"buffer_size": 1615,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "GameClass.cpp",
+			"settings":
+			{
+				"buffer_size": 23985,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "state/GameClassStates.cpp",
+			"settings":
+			{
+				"buffer_size": 8311,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "GameLevel.h",
+			"settings":
+			{
+				"buffer_size": 1914,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "GameLevel.cpp",
+			"settings":
+			{
+				"buffer_size": 5663,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/comp_c++.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 305.0,
+		"last_filter": "mark",
+		"selected_items":
+		[
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: main()"
+			],
+			[
+				"",
+				"Build With: C++ Single File"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"cd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/cc_project/projects/tudo_push_box/tudo_push_box/Classes",
+		"/E/cc_project/projects/tudo_push_box/tudo_push_box/Classes/json_object_type",
+		"/E/cc_project/projects/tudo_push_box/tudo_push_box/Classes/state"
+	],
+	"file_history":
+	[
+		"/E/cc_project/projects/tudo_push_box/tudo_push_box/Classes/GameResource.cpp",
+		"/E/cc_project/projects/tudo_push_box/tudo_push_box/Classes/state/StateMachine.h",
+		"/E/cc_project/cocos2d-x-3.15.1/tests/cpp-tests/Classes/LabelTest/LabelTest.cpp",
+		"/E/cc_project/projects/tudo_push_box/tudo_push_box/Classes/AppDelegate.cpp",
+		"/E/cc_project/projects/tudo_push_box/tudo_push_box/proj.win32/Debug.win32/res/levels/level_0.json",
+		"/E/cc_project/projects/tudo_push_box/tudo_push_box/Classes/state/GameClassStates.h",
+		"/E/cc_project/projects/tudo_push_box/tudo_push_box/Classes/GameClass.h",
+		"/E/cc_project/projects/tudo_push_box/tudo_push_box/Classes/GameClass.cpp",
+		"/E/cc_project/projects/tudo_push_box/tudo_push_box/Classes/state/GameClassStates.cpp",
+		"/E/cc_project/projects/tudo_push_box/tudo_push_box/Classes/state/State.h",
+		"/C/Users/pc-shark/AppData/Local/tudo_push_box/save.json",
+		"/E/cc_project/projects/tudo_push_box/tudo_push_box/Classes/json_object_type/json_object_type.h",
+		"/E/cc_project/projects/tudo_push_box/tudo_push_box/Classes/json_object_type/json_object_type.cpp",
+		"/E/cc_project/projects/tudo_push_box/tudo_push_box/Classes/GameHelper.h",
+		"/E/cc_project/dog_engine_unit_lib/dog_engine/dog_engine.cpp",
+		"/E/cc_project/dog_engine_unit_lib/dog_engine/dog_engine.h",
+		"/E/cc_project/projects/tudo_push_box/tudo_push_box/Classes/AppDelegate.h",
+		"/E/cc_project/projects/push_box/GameClass.cpp",
+		"/E/cc_project/projects/push_box/state/GameClassStates.h",
+		"/E/cc_project/projects/push_box/GameClass.h",
+		"/E/cc_project/noip/1147/1147.cpp",
+		"/E/cc_project/noip/1146/1146.cpp",
+		"/C/Users/pc-shark/AppData/Roaming/Sublime Text 3/Packages/User/build_makefile_6.2.sublime-build",
+		"/C/Users/pc-shark/AppData/Roaming/Sublime Text 3/Packages/User/build_cpp_gcc6.2_by_lx.sublime-build",
+		"/E/cc_project/noip/1159/1159.cpp",
+		"/E/cc_project/noip/1145/1145.cpp",
+		"/E/cc_project/noip/1144/1144.cpp",
+		"/C/Users/pc-shark/Documents/GitHub/push_box/README.md",
+		"/E/push_box/res/game_cfg.json",
+		"/H/mcpp/push_box/state/StateMachine.h",
+		"/H/mcpp/push_box/dog_engine/dog_engine.h",
+		"/H/mcpp/push_box/GameLevel.cpp",
+		"/H/mcpp/push_box/GameLevel.h",
+		"/H/mcpp/push_box/res/levels/level_0.json",
+		"/H/mcpp/push_box/GameClass.h",
+		"/H/mcpp/push_box/logs/Tue_Jul_04_16_17_34_2017_.log",
+		"/H/mcpp/push_box/state/GameClassStates.h",
+		"/H/mcpp/push_box/dog_engine_unit/label/label.h",
+		"/H/mcpp/push_box/state/State.h",
+		"/H/mcpp/push_box/dog_engine_unit/node/node.h",
+		"/H/mcpp/push_box/res/levels/level_1.json",
+		"/H/mcpp/push_box/push_box.sublime-workspace",
+		"/H/mcpp/push_box/push_box.sublime-project",
+		"/I/mcpp/push_box/res/levels/level_0.json",
+		"/I/mcpp/push_box/GameResource.h",
+		"/I/mcpp/push_box/makefile",
+		"/I/mcpp/push_box/GameLevel.cpp",
+		"/I/mcpp/push_box/dog_engine/dog_engine.h",
+		"/I/mcpp/push_box/GameResource.cpp",
+		"/I/mcpp/push_box/dog_engine_unit/json_object_type/json_object_type.h",
+		"/I/mcpp/push_box/dog_engine_unit/node/node.h",
+		"/I/mcpp/push_box/GameClass.cpp",
+		"/I/mcpp/push_box/dog_engine_unit/rate_controller/rate_controller.h",
+		"/I/mcpp/push_box/res/game_cfg.json",
+		"/I/mcpp/push_box/res/levels/level_1.json",
+		"/I/mcpp/push_box/state/GameClassStates.cpp",
+		"/I/mcpp/push_box/state/GameClassStates.h",
+		"/I/mcpp/push_box/dog_engine_unit/label/label.h",
+		"/I/mcpp/push_box/GameLog.cpp",
+		"/I/mcpp/push_box/main.cpp",
+		"/I/mcpp/push_box/GameLog.h",
+		"/I/noipTest/图论练习/最短路径/graph_generator.cpp",
+		"/I/noi_practises/P1001/P1001.cpp",
+		"/H/cocos2d-x-3.9/README.md",
+		"/H/mcpp/push_box/res/title.bct",
+		"/H/mcpp/push_box/GameClass.cpp",
+		"/C/Users/pc-shark/AppData/Roaming/Sublime Text 3/Packages/SmartMarkdown/Default.sublime-keymap",
+		"/C/Users/pc-shark/AppData/Roaming/Sublime Text 3/Packages/SmartMarkdown/SmartMarkdown.sublime-settings",
+		"/H/mcpp/push_box/makefile",
+		"/E/cc_project/projects/push_box/state/GameClassStates.cpp",
+		"/E/cc_project/dog_engine_unit_lib/main.cpp",
+		"/E/cc_project/dog_engine_unit_lib/main.h",
+		"/E/cc_project/projects/tank_boom/tank_boom/cocos2d/README.md",
+		"/E/cc_project/projects/smart_student/main.cpp",
+		"/E/cc_project/projects/smart_student/StudentStates.cpp",
+		"/E/cc_project/projects/tank_boom/tank_boom/Classes/HelloWorldScene.cpp",
+		"/E/cc_project/projects/tank_boom/tank_boom/Classes/AppDelegate.cpp",
+		"/E/cc_project/projects/tank_boom/tank_boom/Classes/AppDelegate.h",
+		"/E/cc_project/projects/tank_boom/tank_boom/Classes/HelloWorldScene.h",
+		"/E/cc_project/projects/smart_student/StateMachine.h",
+		"/E/cc_project/projects/smart_student/Student.h",
+		"/E/cc_project/projects/smart_student/State.h",
+		"/E/cc_project/projects/smart_student/EntityIDs.h",
+		"/C/Users/pc-shark/AppData/Roaming/Sublime Text 3/Packages/User/build_makefile_by_lx.sublime-build",
+		"/E/cc_project/projects/smart_student/Makefile.win",
+		"/E/cc_project/projects/smart_student/smart_student.makefile",
+		"/E/cc_project/projects/smart_student/smart_student.mk",
+		"/E/迅雷下载/Buckland_AIExecutables/Raven/Params.lua",
+		"/E/cc_project/cocos2d-x-3.15.1/tests/cpp-tests/Classes/Box2DTest/Box2dTest.h",
+		"/E/cc_project/cocos2d-x-3.15.1/tests/cpp-tests/Classes/Box2DTestBed/Test.cpp",
+		"/E/cc_project/cocos2d-x-3.15.1/tests/cpp-tests/Classes/Box2DTestBed/TestEntries.cpp",
+		"/E/cc_project/cocos2d-x-3.15.1/tests/cpp-tests/Classes/Box2DTest/Box2dTest.cpp",
+		"/H/BeatBall_source/Classes/HelloWorldScene.h",
+		"/H/BeatBall_source/Classes/HelloWorldScene.cpp",
+		"/H/mcpp/expression_calculator/main.cpp",
+		"/C/Users/pc-shark/AppData/Roaming/Sublime Text 3/Packages/User/build_cpp_gxx_by_lx.sublime-build",
+		"/H/mcpp/expression_calculator/exp_calculator.cpp",
+		"/H/project/json_reader/new/json.cpp",
+		"/C/Users/pc-shark/Desktop/a.cpp",
+		"/E/1501家长会2017.6.25/字幕.srt",
+		"/E/1501家长会2017.6.25/2010.01.28.srt",
+		"/E/1501家长会2017.6.25/2017.6.24.srt",
+		"/E/1501家长会2017.6.25/sound/evillaugh.wav",
+		"/C/Users/x/Desktop/test.cpp",
+		"/C/Users/x/Documents/devccpp_test/charlie_boomer/Makefile.win",
+		"/C/Users/x/Documents/devccpp_test/charlie_boomer/charlie_boomer_private.rc",
+		"/C/Users/x/Documents/devccpp_test/charlie_boomer/charlie.o",
+		"/C/Users/x/Documents/devccpp_test/charlie_boomer/charlie_boomer_private.res",
+		"/C/Users/x/Desktop/test/makefile",
+		"/C/Users/x/Desktop/test/build_makefile_by_lx.sublime-build",
+		"/C/Users/x/Desktop/test/build_cpp_gxx_by_lx.sublime-build",
+		"/C/Users/x/Desktop/test/test.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"win",
+			"pause",
+			"set_text",
+			"createWithCharMap",
+			"setPosistion",
+			"{x,y},DOG_COLOR_BLACK",
+			"second_layer",
+			"dog_engine_unit::dog_point _pos,int _color",
+			"DOG_COLOR_GRAY",
+			"win",
+			"D:",
+			"../../..",
+			"WriteHomeworkState",
+			"return",
+			"endl",
+			"dsa",
+			"ddasfag"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"lose",
+			"win",
+			"setString",
+			"setPosition",
+			"x,y",
+			"m_node",
+			"int _x,int _y",
+			"DOG_COLOR_GREY",
+			"lose",
+			"../..",
+			"D:",
+			"GotoSleepState",
+			"EatingState",
+			"GotoCanteenState",
+			"GotoWCState",
+			"NotTakingClassState",
+			"TakingClassState",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "GameResource.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 701,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								363,
+								342
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "GameClass.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1615,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								762,
+								762
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 570.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "GameClass.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23985,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10387,
+								10402
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "state/GameClassStates.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2046,
+								2046
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1156.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "GameLevel.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1914,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1647,
+								1647
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1040.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "GameLevel.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5663,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3979,
+								3979
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2276.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 106.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/build_cpp_gcc6.2_by_lx.sublime-build",
+	"project": "tudo_push_box.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sads",
+				"sadsadsadsad"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

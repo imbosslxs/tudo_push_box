@@ -1,0 +1,10 @@
+1.compile the sample
+2.complete game framework
+3.add ui 
+4.add state
+5.add state machine
+6.add game states
+7.design game level
+8.add gaming logic
+9.add game controller
+10.comlete!
